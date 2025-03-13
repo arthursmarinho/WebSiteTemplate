@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 export default function OpeningHours() {
   return (
     <div className="bg-white p-4 mb-12 rounded-4xl shadow-lg text-black flex flex-col w-1/3 ml-60">
